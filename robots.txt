@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cingcing12.github.io/OmniTool/sitemap.xml
