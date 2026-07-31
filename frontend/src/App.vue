@@ -713,6 +713,9 @@ body {
   color: #fff;
   letter-spacing: -0.025em;
 }
+.nav-logo span {
+  font-family: 'Inter', -apple-system, sans-serif !important;
+}
 .nav-icon {
   width: 24px;
   height: 24px;
@@ -750,6 +753,10 @@ body {
   font-size: 0.8rem;
   transition: all 0.2s;
   margin-left: 0.5rem;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+}
+.lang-toggle span {
+  font-family: 'Inter', -apple-system, sans-serif !important;
 }
 .lang-toggle:hover {
   background: rgba(255, 255, 255, 0.1);
